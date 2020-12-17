@@ -1,8 +1,34 @@
 body {
-  background-image: url(images/bg.png);
+  background: linear-gradient(90deg, rgba(61,185,149,1) 0%, rgba(81,207,215,1) 50%, rgba(104,60,193,1) 100%);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 nav {
-  background-color: black;
-  height: 15%;
+}
+
+#work {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#workcontents {
+  margin-left: 10px;
+}
+
+#prog {
+  margin-top: 10px;
+}
+
+#progcontents {
+  margin-left: 10px;
+}
+
+.row {
+  margin: auto;
+  margin-top: 10px;
+}
+
+.card {
+  margin-top: 5px;
 }
