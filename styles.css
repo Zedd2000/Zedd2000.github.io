@@ -32,3 +32,10 @@ nav {
 .card {
   margin-top: 5px;
 }
+
+.footer {
+  background-color: black;
+  margin: 0;
+  padding: 10px 0 10px 5px;
+  color: gray;
+}
